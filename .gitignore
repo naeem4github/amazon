@@ -1,0 +1,4 @@
+# Ignore files from git push
+.classpath
+.project
+/node_modules
